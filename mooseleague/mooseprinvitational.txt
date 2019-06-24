@@ -48,6 +48,7 @@ inomniaveritas | |  | |
 bark_bark | |  | 3:29 | https://strava.app.link/QkbhYIEsJX
 curfudgeon | |  | 3:36 | https://www.strava.com/activities/2471712587
 fcukitstargirl | |  | |
+ggoldd | |  | 2:40 | https://strava.app.link/mflCCjPDLX
 
 
 # College to get more Knollege
@@ -219,7 +220,7 @@ oljadblixt | |  | |
 
 
 # Wildcard
-ggoldd | | | |
+ggoldd | |  | 2:40 | https://strava.app.link/mflCCjPDLX
 imnotwadegreeley | |  | |
 herumph | |  | |
 blood_bender | |  | |
